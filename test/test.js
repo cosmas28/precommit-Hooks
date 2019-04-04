@@ -1,1 +1,1 @@
-const fakeVariable = 'fakeValueagain';
+const fakeVariable = 'second changes';
